@@ -1,6 +1,6 @@
 i found some old files and said "yeah let's work on this".
 
-# Displayoptify rewind
+# Displayoptify rewind (Wip)
 
 ## Welcome to displayoptify!
 Displayoptify is a music player that meant to work on roblox executors!
